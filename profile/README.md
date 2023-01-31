@@ -1,5 +1,3 @@
 Welcome to the official github repository for the Langara Computer Science Club!
 
-More content coming soon.
-
-![Discord Shield](https://discordapp.com/api/guilds/753037165050593300/widget.png?style=shield)
+All our club projects, including our website (WIP), Peregrine, and CourseDB (WIP) are hosted here. Please join us in #club-projects in our [discord server](https://discord.gg/NSCuyyntuM) if you would like to help contribute!
